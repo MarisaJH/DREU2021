@@ -12,7 +12,7 @@ I am a rising senior at Rhodes College in Memphis, TN. I'll be graduating in May
 
 ## About My Mentor
 
-My mentor is Dr. Julia Hockenmaier at the University of Illinois, Urbana-Champaign. Her primary research area is Natural Language Processing.
+My mentor is [Dr. Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) at the University of Illinois, Urbana-Champaign. Her primary research area is Natural Language Processing.
 
 ## About My Project
 
